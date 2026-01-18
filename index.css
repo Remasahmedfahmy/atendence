@@ -1,0 +1,10 @@
+/*
+  dist/index.css
+
+  Placeholder CSS file added so the <link rel="stylesheet" href="/index.css"> in
+  dist/index.html resolves and doesn't return a 404. Intentionally empty so it
+  does not override styles from Tailwind, Google Fonts, or inline styles.
+
+  لا يُغيّر أي ستايل — الملف فارغ عمداً
+*/
+
